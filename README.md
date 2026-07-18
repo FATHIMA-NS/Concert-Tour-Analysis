@@ -27,6 +27,7 @@ After cleaning and sorting the data, I found two clear answers:
 - I learned how to handle missing values ("NA") so that the data stays organized.
 - I got much more comfortable removing specific noise like citation markers to make data usable.
 - I realized that "cleaning" is actually 80% of the work in data analysis!
+- Although the original dataset was provided pre-sorted, I performed a secondary validation to ensure the revenue values were correctly interpreted as numbers and to confirm the accuracy of the ranking.
 ---
 
 *This project is licensed under the MIT License.*
